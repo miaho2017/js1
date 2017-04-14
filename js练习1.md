@@ -76,6 +76,6 @@
      </tr>  
 
      </table>
-     <input type="button" value="添加一行" onclick="add()" />   <!--在添加按钮上添加点击事件  -->
+     <input type="button" value="添加一行" onclick="add()"/>   <!--在添加按钮上添加点击事件  -->
  </body>
 </html>
